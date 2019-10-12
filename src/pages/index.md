@@ -1,16 +1,86 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/logobig.png
+heading: Grants Plastering
+subheading: >-
+  We are a family run business serving southeast London /North Kent and
+  surrounding areas.
 mainpitch:
-  title: Test Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Grants Plastering
+  description: >-
+    We specialise in restoration and conservation of old and historical
+    buildings, we take great pride and love of using traditional materials and
+    using traditional methods to maintain our history and heritage.
+
+
+    Grants plastering ltd is very passionate and dedicated to the plastering
+    trade and industry with over 21 years experience. Craftsmanship, skill,
+    integrity and providing a great service is always our main concern.
+
+
+    Specialising in:
+
+
+
+    Lime Plastering and Heritage Lime Plaster Restoration
+
+    Lime Rendering and Heritage Lime Render Restoration
+
+    Cornice Mouldings and Covings
+
+    Fibrous plaster work from cornice mouldings to ceiling roses and panels
+    moulds
+
+    Pebble dashing/dry dashing
+
+    Rendering/Sand and Cement
+
+    Coloured monocouche render systems
+
+    English Stucco Finishes
+
+    Modern Gypsum plaster systems from float and set, over skims of old walls
+    (Skimming) New plasterboard ceilings and over skims of old artex.
+     
+
+    We can also carry out the following:
+
+
+    Tanking/ Damp Treatment and condensation problems
+
+    Floor Screeding 
+
+    Damp Treatment / tanking of basements and rectifying condensation issues
+
+    Artexing
+
+    Paint and decorating service over our own plaster works
+
+    Pointing works to brick and stone masonry.
+     
+
+    We undertake all disciplines of plastering from traditional to modern
+    serving domestic and commercial clients.
+
+
+    Small jobs are very welcome alongside the larger building site work.
+
+
+    We welcome and rise to any challenge presented and we pay particular
+    attention to the fine details of our clients requests, resulting in
+    excellent quality of workmanship and extremely satisfied customers.
+
+
+
+    Grants Plastering Ltd uphold skill and integrity on every job and take pride
+    in our work and are very dedicated to the trade and craft of plastering.
+
+
+
+    Contact us for free estimates and you will find us friendly and reliable, I
+    have Level 3 N.V.Q. in both solid and fibrous plastering and I’m an approved
+    applicator for Pro Rend.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
