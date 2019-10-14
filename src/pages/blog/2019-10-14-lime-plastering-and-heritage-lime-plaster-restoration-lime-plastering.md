@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Lime Plastering and Heritage Lime Plaster Restoration - Lime plastering:'
 date: 2019-10-14T08:23:26.637Z
-description: >-
+description: >
   Lime plastering is carried out internally to old buildings/ historical
   buildings and can also be used in new builds and eco buildings.
 featuredpost: true
