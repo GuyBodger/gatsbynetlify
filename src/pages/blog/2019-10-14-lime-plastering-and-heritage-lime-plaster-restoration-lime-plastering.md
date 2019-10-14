@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Lime Plastering and Heritage Lime Plaster Restoration - Lime plastering:'
+title: 'Lime Plastering and Heritage Lime Plaster Restoration- Lime plastering:'
 date: 2019-10-14T08:23:26.637Z
 description: >
   Lime plastering is carried out internally to old buildings/ historical
